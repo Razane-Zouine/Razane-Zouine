@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="220" viewBox="0 0 220 220" role="img" aria-label="Animated shield robot mascot">
+  <defs>
+    <linearGradient id="sh" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#58A6FF"/>
+      <stop offset="1" stop-color="#0B3D91"/>
+    </linearGradient>
+    <style>
+      .bob{animation:bob 3s ease-in-out infinite}
+      @keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+      .wave{animation:wave 1.6s ease-in-out infinite;transform-origin:162px 118px}
+      @keyframes wave{0%,100%{transform:rotate(0)}50%{transform:rotate(-28deg)}}
+      .eye{animation:eye 4s infinite;transform-origin:110px 96px}
+      @keyframes eye{0%,90%,100%{transform:scaleY(1)}94%{transform:scaleY(.1)}}
+      .scan{animation:scan 2.2s linear infinite}
+      @keyframes scan{0%{transform:translateY(0);opacity:0}15%{opacity:.9}85%{opacity:.9}100%{transform:translateY(46px);opacity:0}}
+      .shadow{animation:sh 3s ease-in-out infinite;transform-origin:110px 200px}
+      @keyframes sh{0%,100%{transform:scaleX(1);opacity:.35}50%{transform:scaleX(.8);opacity:.2}}
+      .ant{animation:ant 1.2s ease-in-out infinite}
+      @keyframes ant{0%,100%{fill:#3FB950}50%{fill:#FFA657}}
+    </style>
+  </defs>
+
+  <ellipse class="shadow" cx="110" cy="202" rx="48" ry="7" fill="#1F6FEB"/>
+
+  <g class="bob">
+    <!-- antenna -->
+    <path d="M110 30 V46" stroke="#8B949E" stroke-width="4" stroke-linecap="round"/>
+    <circle class="ant" cx="110" cy="26" r="7" fill="#3FB950"/>
+
+    <!-- left arm -->
+    <path d="M58 118 C44 124 42 140 50 150" fill="none" stroke="#0B3D91" stroke-width="10" stroke-linecap="round"/>
+    <!-- right arm (waving) -->
+    <g class="wave">
+      <path d="M162 118 C176 108 182 94 178 80" fill="none" stroke="#0B3D91" stroke-width="10" stroke-linecap="round"/>
+      <circle cx="178" cy="76" r="8" fill="#58A6FF"/>
+    </g>
+
+    <!-- shield body -->
+    <path d="M110 44 L166 64 C166 128 146 168 110 186 C74 168 54 128 54 64 Z" fill="url(#sh)" stroke="#0D1117" stroke-width="3"/>
+
+    <!-- visor -->
+    <rect x="74" y="78" width="72" height="40" rx="18" fill="#0D1117"/>
+    <g class="eye" fill="#58A6FF">
+      <rect x="90" y="90" width="10" height="14" rx="5"/>
+      <rect x="120" y="90" width="10" height="14" rx="5"/>
+    </g>
+    <!-- scan line -->
+    <rect class="scan" x="80" y="124" width="60" height="3" rx="1.5" fill="#3FB950"/>
+
+    <!-- lock badge -->
+    <rect x="96" y="138" width="28" height="22" rx="4" fill="#FFFFFF"/>
+    <path d="M102 138 V132 a8 8 0 0 1 16 0 V138" fill="none" stroke="#FFFFFF" stroke-width="4"/>
+    <circle cx="110" cy="148" r="3.5" fill="#0B3D91"/>
+    <rect x="108.5" y="149" width="3" height="6" rx="1.5" fill="#0B3D91"/>
+  </g>
+</svg>
