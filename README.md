@@ -84,26 +84,28 @@ I'm also fascinated by the place where **AI meets security** — from detecting 
 <!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emoji/Travel%20and%20places/Rocket.png" width="30"/> Featured Projects
 
-<!-- TODO (PROJECTS): fill one card per public, documented repository.
-     Status: ✅ Completed  or  🚧 In progress. Delete unused cards. -->
+<!-- TODO (STATUS): update each status once the repository is public and documented:
+     ✅ Completed · 🚧 In progress · 📝 Documentation in progress -->
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ [Project name](https://github.com/Razane-Zouine/REPO)
-One sentence: the problem and the result.
+### 🧠 [AI-Based Malicious Network Traffic Detection](https://github.com/Razane-Zouine/ai-malicious-traffic-detection)
+Machine learning approach that classifies network traffic as **normal or malicious**, comparing several models.
 
-`Tech` `Tech` `Tech`  
-**Status:** ✅ Completed
+`Python` `PyTorch` `NumPy` `Opacus` `XGBoost` `Random Forest` `Decision Tree` `React`  
+**Category:** AI for Cybersecurity · Network Security  
+**Status:** 📝 Documentation in progress
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 [Project name](https://github.com/Razane-Zouine/REPO)
-One sentence: the problem and the result.
+### 🤖 [NEXORA AI — AI-Powered Career Platform](https://github.com/Razane-Zouine/nexora-ai)
+Full-stack platform that helps candidates prepare their applications: **ATS resume analysis, job matching, interview coaching** and application tracking.
 
-`Tech` `Tech` `Tech`  
+`React` `TypeScript` `Vite` `Tailwind CSS` `Node.js` `Express` `MySQL` `Gemini API`  
+**Category:** AI · Full-Stack Development  
 **Status:** 🚧 In progress
 
 </td>
@@ -111,19 +113,22 @@ One sentence: the problem and the result.
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 [Project name](https://github.com/Razane-Zouine/REPO)
-One sentence: the problem and the result.
+### ⛓️ [Academic Portfolio DApp](https://github.com/Razane-Zouine/academic-portfolio-dapp)
+Decentralized academic portfolio built on **smart contracts and IPFS storage**, with no traditional backend or database.
 
-`Tech` `Tech` `Tech`  
-**Status:** ✅ Completed
+`Solidity` `Hardhat` `MetaMask` `IPFS` `React` `Vite` `Tailwind CSS`  
+**Category:** Blockchain · Web3  
+**Status:** 🚧 In progress
 
 </td>
 <td width="50%" valign="top">
 
-### 🔍 [Project name](https://github.com/Razane-Zouine/REPO)
-One sentence: the problem and the result.
+### 🔍 [Enterprise SOC & Digital Forensics Lab](https://github.com/Razane-Zouine/enterprise-soc-forensics-lab)
+Study and enhancement of an enterprise **digital forensics and incident investigation** environment: evidence analysis and SOC workflows.
 
-`Tech` `Tech` `Tech`  
+`Digital Forensics` `Incident Investigation` `Evidence Analysis` `SOC`  
+**Category:** Digital Forensics · SOC  
+**Based on:** [BadrDr03/enterprise-soc-lab](https://github.com/BadrDr03/enterprise-soc-lab)  
 **Status:** 🚧 In progress
 
 </td>
@@ -135,13 +140,10 @@ One sentence: the problem and the result.
 <!-- ═══════════════════════════ LABS ═══════════════════════════ -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emoji/Objects/Test%20Tube.png" width="30"/> Cybersecurity Labs
 
-<!-- TODO (LABS): one row per lab once its repository is public. -->
-
-| Lab | Scope | Tools |
-|---|---|---|
-| 🔥 [Lab name](https://github.com/Razane-Zouine/REPO) | What was built and tested | `Tool` `Tool` |
-| 🐉 [Lab name](https://github.com/Razane-Zouine/REPO) | What was built and tested | `Tool` `Tool` |
-| 🔎 [Lab name](https://github.com/Razane-Zouine/REPO) | What was built and tested | `Tool` `Tool` |
+| Lab | Scope | Tools | Status |
+|---|---|---|---|
+| 🔥 [FortiGate Enterprise Network Security Lab](https://github.com/Razane-Zouine/fortigate-enterprise-security-lab) | Virtual enterprise network protected by a FortiGate firewall, with segmented internal networks (LAN10, LAN20) and a DMZ | `FortiGate-VM64` `VMware Workstation Pro` `Windows` | 📝 Documentation in progress |
+| 🐉 [Cybersecurity Network & Ethical Hacking Lab](https://github.com/Razane-Zouine/network-security-ethical-hacking-lab) | Isolated, authorized lab for protocol analysis, network discovery and vulnerability assessment | `Kali Linux` `Metasploitable 2` `Windows 11` `Nmap` `Wireshark` `VMware` | 📝 Documentation in progress |
 
 ---
 
@@ -150,7 +152,7 @@ One sentence: the problem and the result.
 
 <p align="center"><img src="./assets/shield-bot.svg" width="150" alt="Shield bot"/></p>
 
-<p align="center"><b>🔐 Security & Networking</b></p>
+<p align="center"><b>🔐 Security & Infrastructure</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/FortiGate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
@@ -159,18 +161,25 @@ One sentence: the problem and the result.
   <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white"/>
   <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploitable_2-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white"/>
 </p>
 
-<p align="center"><b>💻 Languages & Frameworks</b></p>
+<p align="center"><b>💻 Languages, Frameworks & Tools</b></p>
 <p align="center">
   <!-- skillicons: theme adapts to light / dark mode -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,c,java,cs,react,flutter,mysql,solidity,pytorch,linux,git,github&perline=12&theme=dark"/>
-    <img src="https://skillicons.dev/icons?i=python,c,java,cs,react,flutter,mysql,solidity,pytorch,linux,git,github&perline=12&theme=light" alt="Skills"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,c,java,cs,js,ts,react,vite,tailwind,nodejs,express,mysql,pytorch,solidity,flutter,postman,linux,windows,git,github&perline=10&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=python,c,java,cs,js,ts,react,vite,tailwind,nodejs,express,mysql,pytorch,solidity,flutter,postman,linux,windows,git,github&perline=10&theme=light" alt="Skills"/>
   </picture>
 </p>
 
-<p align="center"><b>📚 Currently learning:</b> Security Audit & GRC · Digital Forensics · Cloud Security · Cryptography</p>
+<!-- TODO (LEVELS): move any item to the level that matches what you can show and defend -->
+<table align="center">
+<tr><td>🟢 <b>Hands-on</b><br/><sub>internship & labs</sub></td><td>FortiGate · Network segmentation · Firewall policies · VMware Workstation Pro · Kali Linux · Nmap · Wireshark · Metasploitable 2 · Windows 11 · Python</td></tr>
+<tr><td>🔵 <b>Academic projects</b></td><td>PyTorch · NumPy · Opacus · XGBoost · Random Forest · Decision Trees · React · TypeScript · Node.js · Express · MySQL · Solidity · Hardhat · MetaMask · IPFS</td></tr>
+<tr><td>⚪ <b>Familiar with</b></td><td>OWASP ZAP · Zabbix · C · Java · C# · JavaScript · Flutter · Vite · Tailwind CSS · Postman</td></tr>
+<tr><td>📚 <b>Currently learning</b></td><td>Security Audit & GRC · Digital Forensics · Cloud Security · Cryptography</td></tr>
+</table>
 
 ---
 
