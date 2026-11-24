@@ -21,7 +21,7 @@
 ---
 
 <!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emoji/Hand%20gestures/Waving%20Hand.png" width="30"/> About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Medium-Light%20Skin%20Tone.png" width="30"/> About Me
 
 <img align="right" src="./assets/avatar.svg" width="270" alt="Avatar"/>
 
@@ -53,7 +53,7 @@ I'm also fascinated by the place where **AI meets security** — from detecting 
 ---
 
 <!-- ═══════════════════════════ EXPERIENCE ═══════════════════════════ -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emoji/Objects/Briefcase.png" width="30"/> Experience
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="30"/> Experience
 
 <table>
 <tr>
@@ -82,7 +82,7 @@ I'm also fascinated by the place where **AI meets security** — from detecting 
 ---
 
 <!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emoji/Travel%20and%20places/Rocket.png" width="30"/> Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30"/> Featured Projects
 
 <!-- TODO (STATUS): update each status once the repository is public and documented:
      ✅ Completed · 🚧 In progress · 📝 Documentation in progress -->
@@ -138,7 +138,7 @@ Study and enhancement of an enterprise **digital forensics and incident investig
 ---
 
 <!-- ═══════════════════════════ LABS ═══════════════════════════ -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emoji/Objects/Test%20Tube.png" width="30"/> Cybersecurity Labs
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Test%20Tube.png" width="30"/> Cybersecurity Labs
 
 | Lab | Scope | Tools | Status |
 |---|---|---|---|
@@ -148,7 +148,7 @@ Study and enhancement of an enterprise **digital forensics and incident investig
 ---
 
 <!-- ═══════════════════════════ SKILLS ═══════════════════════════ -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emoji/Objects/Hammer%20and%20Wrench.png" width="30"/> Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30"/> Tech Stack
 
 <p align="center"><img src="./assets/shield-bot.svg" width="150" alt="Shield bot"/></p>
 
@@ -184,7 +184,7 @@ Study and enhancement of an enterprise **digital forensics and incident investig
 ---
 
 <!-- ═══════════════════════════ DASHBOARD (light / dark) ═══════════════════════════ -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emoji/Objects/Bar%20Chart.png" width="30"/> GitHub Dashboard
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30"/> GitHub Dashboard
 
 <p align="center">
   <picture>
@@ -215,7 +215,7 @@ Study and enhancement of an enterprise **digital forensics and incident investig
 ---
 
 <!-- ═══════════════════════════ RECENT ACTIVITY (auto-updated) ═══════════════════════════ -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emoji/Objects/High%20Voltage.png" width="30"/> Recent Activity
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="30"/> Recent Activity
 
 <!-- Filled automatically by .github/workflows/activity.yml — do not edit between the two markers -->
 <!--START_SECTION:activity-->
