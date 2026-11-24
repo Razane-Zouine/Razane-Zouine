@@ -1,7 +1,4 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:0B3D91,100:1F6FEB&height=210&section=header&text=Razane%20Zouine&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=36&desc=Cybersecurity%20Engineering%20%C2%B7%20Security%20Audit%20%26%20GRC&descSize=17&descAlignY=57" width="100%" alt="Razane Zouine"/>
-</p>
 
 <p align="center">
   <a href="https://github.com/Razane-Zouine">
